@@ -2,7 +2,7 @@
 
 My name is Jay, I'm a 3rd year Computer Science (Information Systems) student at University of Malaya. I'm highly passionate in Data Science & Analytics and actively curious and learning the data-related field. Currently, I'm doing my Industrial Training at West Malayan Group as Data Analyst Intern.
 
-Also, I'm currently developing my own Portfolio Website which can be visited at [jayyidan.com](jayyidan.com)
+Also, I'm currently developing my own Portfolio Website which can be visited at [jayyidan.com](https://www.jayyidan.com)
 <!--
 **jayy1705/jayy1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
