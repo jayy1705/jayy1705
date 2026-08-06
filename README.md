@@ -21,7 +21,6 @@ Also, I'm currently developing my own Portfolio Website which can be visited at 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 **Databases**
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 <!--
