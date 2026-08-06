@@ -19,9 +19,9 @@ Also, I'm developing my own Portfolio Website which can be visited at [jayyidan.
 
 **Workflow & Automation**  
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-
-**Databases** 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Databases** 
+
 
 <!--
 **jayy1705/jayy1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
