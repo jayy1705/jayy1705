@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jayyidan Abdurrohman, I'm a 3rd year Computer Science (Information Systems) student at University of Malaya. I'm highly passionate in Data Science & Analytics and actively curious and learning the data-related field. Currently, looking for internship placement from 7 September 2026 to 26 February 2027
+My name is Jayyidan Abdurrohman, I'm a 3rd year Computer Science (Information Systems) student at University of Malaya. I'm highly passionate in Data Engineering & Analytics and actively curious and learning the data-related field. Currently, looking for internship placement from 7 September 2026 to 26 February 2027
 
 Also, I'm developing my own Portfolio Website which can be visited at [jayyidan.com](https://www.jayyidan.com)
 
